@@ -1,2 +1,2 @@
 # Mystic-King
-for experimental purpose
+Workshop for experimental purpose
